@@ -1,3 +1,3 @@
 # python3
 my python exercises
-This contains all the exercises from my learning python experience
+This contains all the class exercises from my python learning experience.
